@@ -8,5 +8,7 @@ HOW TO USE
 First open the DSE patcher, you will find it at: https://www.unknowncheats.me/forum/downloads.php?do=file&id=42386
 
 Then desactivate the security and then open the cheatengine-x86_64-SSE4-AVX2_modified.exe   (Change the name for more security)
+
 Dont use the others .exe, only this one.
-And then you can desactivate the protection with the DSE Patcher and now you have the driver load and you can use the CE Undetected.
+
+And then you can activate the protection with the DSE Patcher and now you have the driver load and you can use the CE Undetected.
