@@ -12,3 +12,6 @@ Then desactivate the security and then open the cheatengine-x86_64-SSE4-AVX2_mod
 Dont use the others .exe, only this one.
 
 And then you can activate the protection with the DSE Patcher and now you have the driver load and you can use the CE Undetected.
+
+![image](https://github.com/user-attachments/assets/492c4e09-55f8-493b-8c1f-f8552eceab99)
+Be sure to have this option active so that your driver can load, or else the DSE patcher step will not work.
